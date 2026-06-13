@@ -1,10 +1,10 @@
 # Ludo
 
-A Minimal And Lightweight Online Multiplayer Ludo Experience Built With Kotlin & Firebase, Designed For Couples And Friends.
+A Minimal And Lightweight Online Multiplayer Ludo Experience Built With Kotlin & Firebase, Designed Especially For Couples.
 
 ## Features
 
-- Online Multiplayer
+- Online/Local Multiplayer
 - Fair & Random Dice Logic
 - Resume Previous Match
 - Dark & Light Theme
