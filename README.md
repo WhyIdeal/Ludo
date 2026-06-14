@@ -5,6 +5,7 @@ A Minimal And Lightweight Online Multiplayer Ludo Experience Built With Kotlin &
 ## Features
 
 - Online/Local Multiplayer
+- Only For Two Players
 - Fair & Random Dice Logic
 - Resume Previous Match
 - Dark & Light Theme
