@@ -14,7 +14,7 @@ A Minimal And Lightweight Online Multiplayer Ludo Experience Built With Kotlin &
 
 ## Download
 
-Download The Latest APK From The **Releases** Section.
+Download The Latest APK From The [Releases](https://github.com/WhyIdeal/Ludo/releases) Section.
 
 ## Designed & Developed By
 
